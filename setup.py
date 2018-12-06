@@ -53,5 +53,3 @@ setup(
                             'worldmap/core/GeoLiteCityv6.dat'])
     ]
 )
-
-os.system('worldmap_bootstrap')
